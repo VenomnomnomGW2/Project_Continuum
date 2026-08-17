@@ -1,0 +1,35 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260817-201814-9pei",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-17T18:18:14.000Z",
+      "dateEnd": "2026-08-17T19:26:52.000Z",
+      "dateLabel": "17.8.2026, 20:18:14 - 17.8.2026, 21:26:52",
+      "url": "https://VenomnomnomGW2.github.io/Project_Continuum/?report=20260817-201814-9pei",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 53
+      }
+    }
+  ]
+}
