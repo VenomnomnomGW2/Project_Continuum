@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-200857-u60j",
+      "title": "Kaiser Köfte",
+      "commanders": [
+        "Kaiser Köfte"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-08-15T18:08:57.000Z",
+      "dateEnd": "2026-08-15T20:02:40.000Z",
+      "dateLabel": "15.8.2026, 20:08:57 - 15.8.2026, 22:02:40",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260815-200857-u60j",
+      "summary": {
+        "borderlandsPct": 0.25,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 21,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260814-200707-gfe4",
       "title": "The Donkey Knight, Venômnomnóm",
       "commanders": [
