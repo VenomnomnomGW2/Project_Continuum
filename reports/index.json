@@ -1,30 +1,64 @@
-[
-  {
-    "id": "20260817-200841-6187",
-    "title": "Venomnomnóm",
-    "commanders": [
-      "Venomnomnóm"
-    ],
-    "guild": {
-      "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
-      "name": "Project Continuum",
-      "tag": "Flux"
-    },
-    "dateStart": "2026-08-17T18:08:41.000Z",
-    "dateEnd": "2026-08-17T19:26:52.000Z",
-    "dateLabel": "17.8.2026, 20:08:41 - 17.8.2026, 21:26:52",
-    "url": "https://VenomnomnomGW2.github.io/Project_Continuum/?report=20260817-200841-6187",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 19,
-          "color": "#ef4444"
-        }
+{
+  "colorPalette": "gold-bronze",
+  "glassSurfaces": true,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260814-200707-gfe4",
+      "title": "The Donkey Knight, Venômnomnóm",
+      "commanders": [
+        "The Donkey Knight",
+        "Venômnomnóm"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 53
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-08-14T18:07:07.000Z",
+      "dateEnd": "2026-08-14T19:50:52.000Z",
+      "dateLabel": "14.8.2026, 20:07:07 - 14.8.2026, 21:50:52",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260814-200707-gfe4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 51
+      }
+    },
+    {
+      "id": "20260817-200841-6187",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-08-17T18:08:41.000Z",
+      "dateEnd": "2026-08-17T19:26:52.000Z",
+      "dateLabel": "17.8.2026, 20:08:41 - 17.8.2026, 21:26:52",
+      "url": "https://VenomnomnomGW2.github.io/Project_Continuum/?report=20260817-200841-6187",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 53
+      }
     }
-  }
-]
+  ]
+}
