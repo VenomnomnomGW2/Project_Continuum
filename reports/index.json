@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260821-202218-dk6n",
+      "title": "Arthur Stonehenge",
+      "commanders": [
+        "Arthur Stonehenge"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-08-21T18:22:18.000Z",
+      "dateEnd": "2026-08-21T19:28:32.848Z",
+      "dateLabel": "21.8.2026, 20:22:18 - 21.8.2026, 21:28:32",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260821-202218-dk6n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 60
+      }
+    },
+    {
       "id": "20260818-205435-ykxt",
       "title": "Arthur Stonehenge",
       "commanders": [
