@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-210848-01va",
+      "title": "Rent A Guardían",
+      "commanders": [
+        "Rent A Guardían"
+      ],
+      "guild": {
+        "id": "A7877EDB-26D3-ED11-8465-068565E44296",
+        "name": "Rentnertruppe",
+        "tag": "Heim"
+      },
+      "dateStart": "2026-08-22T19:08:48.000Z",
+      "dateEnd": "2026-08-22T19:51:32.371Z",
+      "dateLabel": "22.8.2026, 21:08:48 - 22.8.2026, 21:51:32",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260822-210848-01va",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 35,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260821-202218-dk6n",
       "title": "Arthur Stonehenge",
       "commanders": [
