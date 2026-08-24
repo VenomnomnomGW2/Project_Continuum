@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-211111-2njz",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-08-24T19:11:11.000Z",
+      "dateEnd": "2026-08-24T20:04:32.221Z",
+      "dateLabel": "24.8.2026, 21:11:11 - 24.8.2026, 22:04:32",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260824-211111-2njz",
+      "summary": {
+        "borderlandsPct": 0.2962962962962963,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 19,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260822-210848-01va",
       "title": "Rent A Guardían",
       "commanders": [
