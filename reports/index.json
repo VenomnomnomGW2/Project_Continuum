@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260828-201716-3l5p",
+      "title": "Kaiser Kappu",
+      "commanders": [
+        "Kaiser Kappu"
+      ],
+      "guild": {
+        "id": "66B6911E-2A34-F111-BB23-067697280D5B",
+        "name": "I Lmpw Flawless Execution",
+        "tag": "lmpw"
+      },
+      "dateStart": "2026-08-28T18:17:16.000Z",
+      "dateEnd": "2026-08-28T18:55:39.266Z",
+      "dateLabel": "28.8.2026, 20:17:16 - 28.8.2026, 20:55:39",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260828-201716-3l5p",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260824-211111-2njz",
       "title": "Venomnomnóm",
       "commanders": [
