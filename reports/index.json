@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260904-213118-0ur0",
+      "title": "Dark Firebldie",
+      "commanders": [
+        "Dark Firebldie"
+      ],
+      "guild": {
+        "id": "ADD3149F-729A-E311-88E3-AC162DC0E835",
+        "name": "Visceral Effect",
+        "tag": "vE"
+      },
+      "dateStart": "2026-09-04T19:31:18.000Z",
+      "dateEnd": "2026-09-04T20:35:20.933Z",
+      "dateLabel": "4.9.2026, 21:31:18 - 4.9.2026, 22:35:20",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260904-213118-0ur0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 38,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260831-211703-d41l",
       "title": "Venomnomnóm",
       "commanders": [
