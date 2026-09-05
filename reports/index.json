@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-210617-nx09",
+      "title": "Kaiser Kappu",
+      "commanders": [
+        "Kaiser Kappu"
+      ],
+      "guild": {
+        "id": "58F22165-8801-EE11-81B7-C3B1C0E42B51",
+        "name": "Æquínox",
+        "tag": "ÆX"
+      },
+      "dateStart": "2026-09-05T19:06:17.000Z",
+      "dateEnd": "2026-09-05T19:55:40.762Z",
+      "dateLabel": "5.9.2026, 21:06:17 - 5.9.2026, 21:55:40",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260905-210617-nx09",
+      "summary": {
+        "borderlandsPct": 0.5294117647058824,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "World vs World",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260904-213118-0ur0",
       "title": "Dark Firebldie",
       "commanders": [
