@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260911-215432-gcy8",
+      "title": "Dark Firebldie",
+      "commanders": [
+        "Dark Firebldie"
+      ],
+      "guild": {
+        "id": "ADD3149F-729A-E311-88E3-AC162DC0E835",
+        "name": "Visceral Effect",
+        "tag": "vE"
+      },
+      "dateStart": "2026-09-11T19:54:32.000Z",
+      "dateEnd": "2026-09-11T21:07:03.479Z",
+      "dateLabel": "11.9.2026, 21:54:32 - 11.9.2026, 23:07:03",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260911-215432-gcy8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 29,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260910-203114-62g3",
       "title": "The Donkey Knight",
       "commanders": [
