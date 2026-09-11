@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-203114-62g3",
+      "title": "The Donkey Knight",
+      "commanders": [
+        "The Donkey Knight"
+      ],
+      "guild": {
+        "id": "4F3641E1-6EB1-ED11-81B7-AD7CCA945DAC",
+        "name": "Empty Roster",
+        "tag": "eR"
+      },
+      "dateStart": "2026-09-10T18:31:14.000Z",
+      "dateEnd": "2026-09-10T19:02:10.616Z",
+      "dateLabel": "10.9.2026, 20:31:14 - 10.9.2026, 21:02:10",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260910-203114-62g3",
+      "summary": {
+        "borderlandsPct": 0.1,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260909-204923-pggr",
       "title": "T B E Tim",
       "commanders": [
