@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-204709-q4ym",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-09-18T18:47:09.000Z",
+      "dateEnd": "2026-09-18T19:52:11.622Z",
+      "dateLabel": "18.9.2026, 20:47:09 - 18.9.2026, 21:52:11",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260918-204709-q4ym",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260911-215432-gcy8",
       "title": "Dark Firebldie",
       "commanders": [
