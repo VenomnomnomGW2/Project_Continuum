@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260921-195556-zdkd",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-09-21T17:55:56.000Z",
+      "dateEnd": "2026-09-21T18:42:26.820Z",
+      "dateLabel": "21.9.2026, 19:55:56 - 21.9.2026, 20:42:26",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260921-195556-zdkd",
+      "summary": {
+        "borderlandsPct": 0.5555555555555556,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260919-210032-bj9d",
       "title": "Venomnomnóm",
       "commanders": [
