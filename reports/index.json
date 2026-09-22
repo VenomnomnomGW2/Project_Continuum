@@ -2,7 +2,36 @@
   "colorPalette": "gold-bronze",
   "glassSurfaces": true,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260922-205649-o6qn",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-09-22T18:56:49.000Z",
+      "dateEnd": "2026-09-22T19:40:16.187Z",
+      "dateLabel": "22.9.2026, 20:56:49 - 22.9.2026, 21:40:16",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260922-205649-o6qn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20260921-195556-zdkd",
       "title": "Venomnomnóm",
