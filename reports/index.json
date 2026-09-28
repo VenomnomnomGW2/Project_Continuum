@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260928-212230-g2me",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-09-28T19:22:30.000Z",
+      "dateEnd": "2026-09-28T20:03:59.382Z",
+      "dateLabel": "28.9.2026, 21:22:30 - 28.9.2026, 22:03:59",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20260928-212230-g2me",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 22,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260926-212956-fok0",
       "title": "Arthur Stonehenge",
       "commanders": [
