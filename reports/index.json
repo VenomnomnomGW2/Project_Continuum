@@ -1,9 +1,47 @@
 {
   "colorPalette": "gold-bronze",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "axiDesign": false,
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20261002-213436-u346",
+      "title": "Arthur Stonehenge, Grog X I X, Ifrqdsonmjkmqbxuzio, L Inspecteur, T B E Killu, W A S H I O",
+      "commanders": [
+        "Arthur Stonehenge",
+        "Grog X I X",
+        "Ifrqdsonmjkmqbxuzio",
+        "L Inspecteur",
+        "T B E Killu",
+        "W A S H I O"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-10-02T19:34:36.000Z",
+      "dateEnd": "2026-10-02T20:10:46.933Z",
+      "dateLabel": "2.10.2026, 21:34:36 - 2.10.2026, 22:10:46",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20261002-213436-u346",
+      "summary": {
+        "borderlandsPct": 0.2682926829268293,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 30,
+            "color": "#64748b"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 41
+      }
+    },
     {
       "id": "20260928-212230-g2me",
       "title": "Venomnomnóm",
