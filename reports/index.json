@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261006-210318-cxte",
+      "title": "Arthur Stonehenge",
+      "commanders": [
+        "Arthur Stonehenge"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-10-06T19:03:18.000Z",
+      "dateEnd": "2026-10-06T20:00:40.590Z",
+      "dateLabel": "6.10.2026, 21:03:18 - 6.10.2026, 22:00:40",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20261006-210318-cxte",
+      "publishedBy": "VenomnomnomGW2",
+      "summary": {
+        "borderlandsPct": 0.44,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 14,
+            "color": "#64748b"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261005-210744-0zn5",
       "title": "Venomnomnóm",
       "commanders": [
