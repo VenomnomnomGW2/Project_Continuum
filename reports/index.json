@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261016-210234-ojfo",
+      "title": "Arthur Stonehenge",
+      "commanders": [
+        "Arthur Stonehenge"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-10-16T19:02:34.000Z",
+      "dateEnd": "2026-10-16T20:02:50.246Z",
+      "dateLabel": "16.10.2026, 21:02:34 - 16.10.2026, 22:02:50",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20261016-210234-ojfo",
+      "publishedBy": "VenomnomnomGW2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 49
+      }
+    },
     {
       "id": "20261013-211531-1cah",
       "title": "Arthur Mes",
