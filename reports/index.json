@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261101-200945-elil",
+      "title": "Am I Real Or Clone",
+      "commanders": [
+        "Am I Real Or Clone"
+      ],
+      "guild": {
+        "id": "ADD3149F-729A-E311-88E3-AC162DC0E835",
+        "name": "Visceral Effect",
+        "tag": "vE"
+      },
+      "dateStart": "2026-11-01T19:09:45.000Z",
+      "dateEnd": "2026-11-01T20:45:32.914Z",
+      "dateLabel": "1.11.2026, 20:09:45 - 1.11.2026, 21:45:32",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20261101-200945-elil",
+      "publishedBy": "VenomnomnomGW2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20261027-204521-exjg",
       "title": "Venomnomnóm",
       "commanders": [
