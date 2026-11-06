@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261106-204124-jjgg",
+      "title": "Arthur Mes",
+      "commanders": [
+        "Arthur Mes"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-11-06T19:41:24.000Z",
+      "dateEnd": "2026-11-06T21:09:01.840Z",
+      "dateLabel": "6.11.2026, 20:41:24 - 6.11.2026, 22:09:01",
+      "url": "https://venomnomnomgw2.github.io/Project_Continuum/?report=20261106-204124-jjgg",
+      "publishedBy": "VenomnomnomGW2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 62
+      }
+    },
+    {
       "id": "20261103-200738-zywh",
       "title": "Venomnomnóm",
       "commanders": [
